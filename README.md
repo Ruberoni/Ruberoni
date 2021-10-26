@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Rubén Paredes
 ### Fullstack developer
 
-- 🔭 I’m currently working on my [Notes Project](https://github.com/Ruberoni/notes-project)
+- 🔭 I’m currently working on my [Notes Project](https://github.com/Ruberoni/notes-project) and in [Chingu's V34 Bears Team 06](https://github.com/chingu-voyages/v34-bears-team-06)
 - 🌱 I’m currently learning **more about Fullstack development like: GraphQL and Chakra UI!**
 - 📫 Contact me! **ruben.pardes25@gmail.com**
 
