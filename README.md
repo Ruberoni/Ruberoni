@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Rubén Paredes
 ### Fullstack developer
 
-- 🔭 I’m currently working on my [Notes Project](https://github.com/Ruberoni/notes-project) and in [Chingu's V34 Bears Team 06](https://github.com/chingu-voyages/v34-bears-team-06)
-- 🌱 I’m currently learning **more about Fullstack development like: GraphQL and Chakra UI!**
+- 🔭 Check my [Notes Project](https://github.com/Ruberoni/notes-project)!!
+- 🌱 I’m currently learning **more about Mobile development like: React Native and Android Studio!**
 - 📫 Contact me! **ruben.pardes25@gmail.com**
 
 ## Connect with me:
@@ -38,17 +38,3 @@
 </a>
 <br>
 <p><br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruberoni&show_icons=true&locale=en&layout=compact" alt="ruberoni" /></p>
-<!--
-**Ruberoni/Ruberoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
