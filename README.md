@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Rubén Paredes
-### React/React Native developer
+### Web developer
 
 - 🔭 Check my [Notes Project](https://github.com/Ruberoni/notes-project)!!
 - 🌱 I’m currently **deepening my HTML knowledge!**
