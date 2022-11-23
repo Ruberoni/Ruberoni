@@ -2,16 +2,16 @@
 ### React/React Native developer
 
 - 🔭 Check my [Notes Project](https://github.com/Ruberoni/notes-project)!!
-- 🌱 I’m currently **deepening my React Native knowledge!**
+- 🌱 I’m currently **deepening my HTML knowledge!**
 - 📫 Contact me! **ruben.pardes25@gmail.com**
 
 ## Connect with me:
 
 <a href="https://linkedin.com/in/ruberoni" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruberoni" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My linkedin page" height="30" width="40" />
 </a>
 <a href="https://instagram.com/rubenpar" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rubenpar" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="My instagram page" height="30" width="40" />
 </a>
 
 ## Languages and Tools:
