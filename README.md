@@ -1,39 +1,18 @@
-## Hi 👋, I'm Rubén Paredes
-### Web developer
+# Hi, I'm Rubén Paredes
 
-- 🔭 Check my [Notes Project](https://github.com/Ruberoni/notes-project)!!
-- 🌱 I’m currently **deepening my HTML knowledge!**
+Frontend developer · React, Next.js, React Native (Expo), TypeScript · Open to remote roles
 
-## Connect with me:
+I've built web and mobile apps professionally for 5 years. From 2023 to 2026 I worked on a production ERP at Atrinium: the Next.js web app, the Expo mobile app and, in the last months, backend work with AI agents.
 
-<a href="https://linkedin.com/in/ruberoni" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My linkedin page" height="15" width="20" />
-   &nbsp; ruberoni
-</a>
-<br>
-<a href="mailto:ruben.pardes25@gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email me" height="15" width="20" />
-   &nbsp; ruben.pardes25@gmail.com
-</a>
+## Stack
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, TanStack Query
+- **Mobile:** React Native, Expo
+- **Testing:** Jest, Vitest
+- **Backend (personal projects):** Node.js, Express, GraphQL, MongoDB, MySQL
 
-## Languages and Tools:
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-<a href="https://graphql.org" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<br>
-<p><br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruberoni&show_icons=true&locale=en&layout=compact" alt="ruberoni" /></p>
+## Personal projects (2021–22)
+- **[Notes Project](https://github.com/Ruberoni/notes-project)**: notes app with markdown and categories. React, GraphQL (TypeGraphQL), MySQL, Auth0.
+- **[Drama Keeper](https://github.com/Ruberoni/drama-keeper)**: tracker for films to watch and films seen. React, Express, MongoDB, TMDb API.
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/ruberoni) · ruben.pardes25@gmail.com
