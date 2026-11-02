@@ -1,4 +1,4 @@
-# Hi, I'm Rubén Paredes
+# Hi 👋, I'm Rubén Paredes
 
 Frontend developer · React, Next.js, React Native (Expo), TypeScript · Open to remote roles
 
